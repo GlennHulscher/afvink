@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8de18899-399f-4405-945c-a17fac25e233" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../afvink5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../afvink7/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/afvink4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/afvink4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/afvink4/DNA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/afvink4/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/afvink4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/afvink4/NotAnAA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/afvink4/RNA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/afvink4/Sequentie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/afvink4/Translator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DNA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RNA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sequentie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Translator.java" beforeDir="false" />
+    <list default="true" id="ea6aacbb-5efd-4543-9325-b52578f37b03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../afvink6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../afvink6/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,34 +13,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="548613701">
+    <session id="-40926772">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="iml" value="1" />
           <entry key="java" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="29" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="29" />
         </counts>
       </usages-collector>
     </session>
@@ -67,10 +36,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TicTacToe.java">
+        <entry file="file://$PROJECT_DIR$/src/ProVis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1615">
-              <caret line="66" column="85" selection-start-line="66" selection-start-column="85" selection-end-line="66" selection-end-column="85" />
+            <state relative-caret-position="68">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -79,13 +48,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/TicTacToe.java" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
@@ -99,28 +61,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="afvink4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="afvink4" type="462c0819:PsiDirectoryNode" />
+              <item name="afvink7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="afvink7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="afvink4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="afvink4" type="462c0819:PsiDirectoryNode" />
+              <item name="afvink7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="afvink7" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540407997919" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540407073842" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,12 +97,12 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Afvink4.TicTacToe" />
-      <module name="afvink4" />
+    <configuration name="ProVis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Afvink7.ProVis" />
+      <module name="afvink7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Afvink4.*" />
+          <option name="PATTERN" value="Afvink7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,7 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TicTacToe" />
+        <item itemvalue="Application.ProVis" />
       </list>
     </recent_temporary>
   </component>
@@ -159,11 +121,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8de18899-399f-4405-945c-a17fac25e233" name="Default Changelist" comment="" />
-      <created>1540407542365</created>
+      <changelist id="ea6aacbb-5efd-4543-9325-b52578f37b03" name="Default Changelist" comment="" />
+      <created>1540407041954</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1540407542365</updated>
+      <updated>1540407041954</updated>
     </task>
     <servers />
   </component>
@@ -180,7 +142,7 @@
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
@@ -202,13 +164,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/afvink4.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TicTacToe.java">
+    <entry file="file://$PROJECT_DIR$/src/ProVis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1615">
-          <caret line="66" column="85" selection-start-line="66" selection-start-column="85" selection-end-line="66" selection-end-column="85" />
+        <state relative-caret-position="68">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
