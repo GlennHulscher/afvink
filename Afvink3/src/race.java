@@ -72,11 +72,11 @@ public class race extends JFrame implements ActionListener {
          */
         /** Loop tot een paard over de finish is*/
 
-        h1 = new paard("Christel", Color.orange);
-        h2 = new paard("Anouk", Color.yellow);
-        h3 = new paard("Sanne", Color.green);
-        h4 = new paard("Linde", Color.blue);
-        h5 = new paard("Meike", Color.magenta);
+        h1 = new paard("1", Color.orange);
+        h2 = new paard("2", Color.yellow);
+        h3 = new paard("3", Color.green);
+        h4 = new paard("4", Color.blue);
+        h5 = new paard("5", Color.magenta);
 
         while (h1.getAfstand() < lengte
                 && h2.getAfstand() < lengte
@@ -139,31 +139,14 @@ public class race extends JFrame implements ActionListener {
 
     /** Teken het paard */
     private void tekenPaard(Graphics g, paard h) {
-        //Image img1 = Toolkit.getDefaultToolkit().getImage("horse.png");
         BufferedImage img = null;
-        BufferedImage img2 = null;
         try {
-            img = ImageIO.read(this.getClass().getResourceAsStream("images/horse.png")); //images/horse.png
+            img = ImageIO.read(this.getClass().getResourceAsStream("31060.png"));
             g.drawImage(img, h.getAfstand(), 40 * h.getPaardNummer(), this);
         } catch (Exception ex) {
             System.out.println(ex.toString());
         }
-
-        try {
-            img2 = ImageIO.read(this.getClass().getResourceAsStream("images/white.gif"));
-            g.drawImage(img2, h.getAfstand(), 40 * h.getPaardNummer(), this);
-        } catch (Exception ex) {
-            System.out.println(ex.toString());
-        }
-
-        //Graphics2D g2Source = img.createGraphics();
-        //g2Source.drawImage(img2, x, y, null);
-        //g2Source.dispose();
     }
-
-
-
-        //g.fillRect(10, 20 * h.getPaardNummer(), h.getAfstand(), 5);
 
 
 
